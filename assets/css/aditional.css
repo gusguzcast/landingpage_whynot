@@ -1,3 +1,12 @@
 #description-wn {
     font-size: 37px;
 }
+.titlenot{
+    font-family: "calibri";
+    font-size: 150px;
+}
+@media only screen and (max-width: 767px) {
+    #description-wn {
+      font-size: 23px; /* Tamaño de fuente más pequeño para dispositivos móviles */
+    }
+}
