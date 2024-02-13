@@ -2064,21 +2064,20 @@ body:not(.tt-boxed) .page-header-inner,
 	align-items: center;
 	top: 0;
 	bottom: 0;
-	left: 6%;
-	padding-top: 5%;
+	padding-top: 2%;
 	font-size: calc(16px + 19.5vw);
 	font-weight: bold;
-	font-weight: 600;
+	font-weight: 800;
 	color: #FFF;
 	white-space: nowrap;
 	line-height: 1;
-	opacity: .1;
+	opacity: .4;
 	z-index: 1;
 	pointer-events: none;
 }
 .ph-caption-title-ghost .phgh-text { /* cloned text by .js */
 	display: inline-block;
-	margin-right: 7vw;
+
 }
 #page-header.ph-bg-image .ph-caption-title-ghost { /* disable title ghost if "ph-bg-image" is enabled */
 	display: none;
