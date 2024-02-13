@@ -9,4 +9,7 @@
     #description-wn {
       font-size: 23px; /* Tamaño de fuente más pequeño para dispositivos móviles */
     }
+    .titlenot{
+        font-size:100px;
+    }
 }
