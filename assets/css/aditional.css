@@ -1,8 +1,12 @@
 #description-wn {
     font-size: 37px;
 }
+@font-face {
+    font-family: "Drakoheat";
+    src: url("assets/font/Drakoheart Revofit comic-style.ttf") format(ttf);
+}
 .titlenot{
-    font-family: "calibri";
+    font-family: "Drakoheat";
     font-size: 150px;
 }
 @media only screen and (max-width: 767px) {
