@@ -1,12 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
 #description-wn {
     font-size: 37px;
 }
-@font-face {
-    font-family: "Drakoheat";
-    src: url("assets/font/Drakoheart Revofit comic-style.ttf") format(ttf);
-}
+
 .titlenot{
-    font-family: "Drakoheat";
+    font-family: "Oswald";
     font-size: 150px;
 }
 @media only screen and (max-width: 767px) {
